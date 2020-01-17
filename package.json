@@ -1,0 +1,16 @@
+{
+  "name": "create-pull-request-comment-action-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This is the source code accompanying my blog post on GitHub Action Authentication (TBD)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/action": "^1.2.0"
+  }
+}
