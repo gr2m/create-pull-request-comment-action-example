@@ -12,5 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/action": "^1.2.0"
-  }
+  },
+  "repository": "github:gr2m/create-pull-request-comment-action-example"
 }
